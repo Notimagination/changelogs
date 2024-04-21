@@ -2,26 +2,18 @@ VERSIÓN 1.0-ALPHA/34LOPXF0C 20/4/2024
 
 CORRECCIONES
 
-- Corregido un error que al darle clic al botón "Cancelar"
-mientas se estaba buscando una actulización, este no terminaba
-de cancelar la acción por completo
-
-- Corregido un error al querer ver el changelog sin conexión
-a internet
+- Corregido un error que al darle clic al botón "Cancelar" mientas se estaba buscando una actulización, este no terminaba de cancelar la acción por completo
+- Corregido un error al querer ver el changelog sin conexión a internet
 
 CAMBIOS
 
-- Se hicieron cambios estéticos para que la UI sea más amigable
-con el usuario
+- Se hicieron cambios estéticos para que la UI sea más amigable con el usuario
 
 AGREGADO
 
-- Se agregó un pequeño ícono en el botoón de "Actualizaciones"
-para darle aviso al usuario de que hay una actualización
+- Se agregó un pequeño ícono en el botoón de "Actualizaciones" para darle aviso al usuario de que hay una actualización
 
 OPTIMIZACIONES
 
 - Se eliminaron líneas de código repetidas / innecesarias
-
-- Se cambio la estructura de muchos bloques de código
-para que éstos tengan un funcionamiento más rápido
+- Se cambio la estructura de muchos bloques de código para que éstos tengan un funcionamiento más rápido
