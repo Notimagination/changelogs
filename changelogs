@@ -2,11 +2,11 @@ VERSIÓN 1.0-ALPHA/34LOPXF0C | 20/4/2024
 
 CORRECCIONES
 
- Se corrigió un error en el tooltip del botón de cambio de tema, el cual no mostraba el color correcto
+ Se corrigió un error en el tooltip del botón de cambio de tema
 
 CAMBIOS
 
- Se cambió la forma de ver los changelogs. Ahora son más intuitivos
+ Se cambió la estética de la ventana del changelog
  Se cambiaron algunas imágenes y colores
 
 AGREGADO
@@ -22,18 +22,18 @@ VERSIÓN 0.0-ALPHA/34LOPXF0C | 18/4/2024
 
 CORRECCIONES
 
- Corregido un error que al darle clic al botón "Cancelar" mientas se estaba buscando una actulización, este no terminaba de cancelar la acción por completo
+ Corregido un error en el botón "Cancelar" (Actualización)
  Corregido un error al querer ver el changelog sin conexión a internet
 
 CAMBIOS
 
- Se hicieron cambios estéticos para que la UI sea más amigable con el usuario
+ Se hicieron algunos cambios en la UI
 
 AGREGADO
 
- Se agregó ua pequeña imagen en el botón de "Actualizaciones" para darle aviso al usuario de que hay una actualización
+ Se agregó una campana para notificar una actulización
 
 GENERAL
 
  Se eliminaron líneas de código repetidas / innecesarias
- Se cambio la estructura de muchos bloques de código para que éstos tengan un funcionamiento más rápido
+ Se cambió la estructura del código para hacerlo más eficaz
