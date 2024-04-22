@@ -2,25 +2,24 @@ VERSIÓN 2.0-ALPHA/34LOPXF0C | 22/4/2024
 
 CORRECCIONES
 
- Se corrigió un error de algunos textos que cuando cambiaba de
-- tamaño la pantalla los textos se movían para cualquier lado
+ Se corrigió un error de algunos textos que cuando cambiaba de tamaño
+-la pantalla los textos se movían para cualquier lado
 
  Se arreglaron superposiciones entre botones
 
- Se arregló el problema que permitía cliquear muchas veces una 
-- misma pestaña. Esto ocasionaba que se superpusieran elementos
+ Se arregló el problema que permitía cliquear muchas veces una misma
+-pestaña. Esto ocasionaba que se superpusieran elementos
 
  Corregido un problema en el botón de "Cerrar ventana" en la ventana 
 -de changelog, el cual no cumplía su propósito esto sucedía solo si no
 -se estaba conectado a internet
 
- Se corrigió el problema de que la campanita se mostraba
--aún así no hubiera actualización (solo sucedía sin conexión)
+ Se corrigió el problema de que la campanita se mostraba aún así no hubiera
+-actualización (solo sucedía sin conexión)
 
 CAMBIOS
 
- Se reemplazó el botón "Novedades" por
--el botón de "Servicio de ayuda"
+ Se reemplazó el botón "Novedades" por el botón de "Servicio de ayuda"
 
  Ahora cuando se hace clic en un botón del menu de las distintas opciones
 -se mostrará el "efecto" como si estuvieran presionadas
