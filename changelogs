@@ -11,11 +11,11 @@ CORRECCIONES
 -pestaña. Esto ocasionaba que se superpusieran elementos
 
  Corregido un problema en el botón de "Cerrar ventana" en la ventana 
--de changelog, el cual no cumplía su propósito esto sucedía solo si no
+-de changelog, el cual no cumplía su propósito. Esto sucedía solo si no
 -se estaba conectado a internet
 
  Se corrigió el problema de que la campanita se mostraba aún así no
--hubiera actualización (solo sucedía sin conexión)
+-hubiera actualización. Solo sucedía sin conexión a internet
 
 CAMBIOS
 
