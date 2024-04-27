@@ -13,7 +13,8 @@ CORRECCIONES
  Corregido un grave error en los botones del menú principal los cuales
 -no mostraban sus respectivos contenidos
 
- Corregidos algunos problemas menores relacionados a la conexión a internet
+ Corregidos algunos problemas menores relacionados a la conexión 
+-a internet
 
  Se corrigió un error en los campos de ingreso de datos en general
 -en el cual al seleccionar y borrar todo (CTRL + A) los mensajes de
@@ -23,45 +24,48 @@ Otros pequeños problemas corregidos
 
 CAMBIOS
 
- Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si la nueva
--contraseña coincide con el reingreso de la misma
+ Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si
+-la nueva contraseña coincide con el reingreso de la misma
 
- Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas pasar el
--mouse por arriba, enseguida se muestra; ni desaparecerá si se deja el mouse
+ Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
+-pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja el mouse
 
  Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte
 
  Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
 -(particularmente en el tema oscuro)
 
- Se cambiaron los punteros del mouse para distintos contextos (como el clic)
+ Se cambiaron los punteros del mouse para distintos contextos
+-(como el clic)
 
- Ahora los cambios que se hagan en la aplicación (cambio de tema, puntero, etc)
+ Ahora los cambios que se hagan en la aplicación (cambio de tema, etc)
 -se guardará para la próxima vez que se ingrese
 
  Pequeños cambios estéticos
 
 AGREGADO
 
- Se agregó un pequeño ícono de información en el changelog dependiendo el cambio
--que sea
+ Se agregó un pequeño ícono de información en el changelog dependiendo
+-el cambio que sea
 
- Se agregó un teclado virtual para ingresar para protegerse de posibles keyloggers
+ Se agregó un teclado virtual para ingresar para protegerse de posibles
+-keyloggers
 
  Se agregaron efectos de sonido como clic, error, notificación, entre otros
 
- Se agregó una una notificación cuando no hay conexion a internet, avisando así
--que ciertas caractertisticas no estarán disponibles
+ Se agregó una una notificación cuando no hay conexion a internet
+-avisando así que ciertas caractertisticas no estarán disponibles
 
- Se agreagron notificaciones de Windows, las cuales informarán, por ejemplo
--una advertencia al ingresar una contraseña errónea
+ Se agreagron notificaciones de Windows, las cuales informarán
+-por ejemplo una advertencia al ingresar una contraseña errónea
 
- Agregado la posibilidad de enviar archivos .txt junto al mensaje para el soporte
+ Agregado la posibilidad de enviar archivos .txt junto al mensaje para el
+-soporte
 
 GENERAL
 
- Finalmente se terminó de estructurizar todo el codigo si bien esto no tiene impacto
--en el rendimiento, sirve para un mejor entorno de desarrollo
+ Finalmente se terminó de estructurizar todo el codigo si bien esto no 
+-tiene impacto en el rendimiento, sirve para un mejor entorno de desarrollo
 
  Grandes optimizaciones
 
