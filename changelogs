@@ -28,7 +28,8 @@ CAMBIOS
 -la nueva contraseña coincide con el reingreso de la misma
 
  Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
--pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja el mouse
+-pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
+-el mouse
 
  Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte
 
