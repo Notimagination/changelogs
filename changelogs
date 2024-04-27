@@ -9,7 +9,7 @@ CORRECCIONES
 -pestaña esta eliminaba los elementos, dejándola en blanco
 
  Corregido un problema en la ventana principal con modo oscuro
--activado
+-activado *ayuda1
 
  Corregido un grave error en los botones del menú principal los cuales
 -no mostraban sus respectivos contenidos
