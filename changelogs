@@ -5,10 +5,11 @@ CORRECCIONES
  Corregidos varios errores con la validación de datos en el sistema de 
 -soporte
 
- Corregido un problema el cual al apretar dos veces en una misma pestaña
--esta eliminaba los elementos, dejándola en blanco
+ Corregido un problema el cual al apretar dos veces en una misma 
+-pestaña esta eliminaba los elementos, dejándola en blanco
 
- Corregido un problema en la ventana principal con modo oscuro activado
+ Corregido un problema en la ventana principal con modo oscuro
+-activado
 
  Corregido un grave error en los botones del menú principal los cuales
 -no mostraban sus respectivos contenidos
@@ -46,8 +47,8 @@ CAMBIOS
 
 AGREGADO
 
- Se agregó un pequeño ícono de información en el changelog dependiendo
--el cambio que sea
+ Se agregó un pequeño ícono de información en el changelog
+-dependiendo el cambio que sea
 
  Se agregó un teclado virtual para ingresar para protegerse de posibles
 -keyloggers
