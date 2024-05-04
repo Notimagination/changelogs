@@ -32,7 +32,7 @@ CAMBIOS
 -pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
 -el mouse
 
- Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte
+ Se cambió el límite de 1000 a 500 caracteres para el mensaje al soporte
 
  Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
 -(particularmente en el tema oscuro)
