@@ -43,15 +43,15 @@ CAMBIOS
  Ahora los cambios que se hagan en la aplicación (cambio de tema, etc)
 -se guardará para la próxima vez que se ingrese
 
- Pequeños cambios estéticos *tooltip_1
+ Pequeños cambios estéticos
 
 AGREGADO
 
  Se agregó un pequeño ícono de información en el changelog
 -dependiendo el cambio que sea
 
- Se agregó un teclado virtual para ingresar para protegerse de posibles
--keyloggers *tooltip_1
+ Se agregó un teclado virtual para ingresar datos, así se podrían evitar
+-posibles keyloggers *tooltip_1
 
  Se agregaron efectos de sonido como clic, error, notificación, entre otros
 
