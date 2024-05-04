@@ -3,7 +3,7 @@ VERSIÓN 3.0-ALPHA/34LOPXF0C | 26/4/2024
 CORRECCIONES
 
  Corregidos varios errores con la validación de datos en el sistema de 
--soporte *tooltip_1
+-soporte
 
  Corregido un problema el cual al apretar dos veces en una misma 
 -pestaña esta eliminaba los elementos, dejándola en blanco
@@ -32,7 +32,7 @@ CAMBIOS
 -pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
 -el mouse
 
- Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte
+ Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte  *tooltip_1
 
  Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
 -(particularmente en el tema oscuro)
