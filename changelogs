@@ -26,13 +26,13 @@ CORRECCIONES
 CAMBIOS
 
  Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si
--la nueva contraseña coincide con el reingreso de la misma  *tooltip_2
+-la nueva contraseña coincide con el reingreso de la misma
 
  Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
 -pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
 -el mouse
 
- Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte   *tooltip_1
+ Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte
 
  Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
 -(particularmente en el tema oscuro)
@@ -51,7 +51,7 @@ AGREGADO
 -dependiendo el cambio que sea
 
  Se agregó un teclado virtual para ingresar para protegerse de posibles
--keyloggers
+-keyloggers *tooltip_1
 
  Se agregaron efectos de sonido como clic, error, notificación, entre otros
 
@@ -97,7 +97,7 @@ CAMBIOS
  Ahora cuando se hace clic en un botón del menu de las distintas opciones
 -se mostrará el "efecto" como si estuvieran presionadas
 
- Ya no se podrán abrir más de una ventana a la vez haciendo la ventana
+ Ya no se podrán abrir más de una ventana a la vez, haciendo la ventana
 -principal inutilizable mientras haya otra ventana abierta
 
 AGREGADO
@@ -106,7 +106,7 @@ AGREGADO
 
 GENERAL
 
- Pequeños cambios en la estructura y legilibilidad del código. Nada nuevo
+ Pequeños cambios en la estructura y legilibilidad del código
 
 VERSIÓN 1.0-ALPHA/34LOPXF0C | 20/4/2024
 
@@ -141,7 +141,7 @@ CAMBIOS
 
 AGREGADO
 
- Se agregó una campana para notificar una actulización
+ Se agregó una campana para notificar una actualización
 
 GENERAL
 
