@@ -26,7 +26,7 @@ CORRECCIONES
 CAMBIOS
 
  Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si
--la nueva contraseña coincide con el reingreso de la misma
+-la nueva contraseña coincide con el reingreso de la misma *tooltip_2
 
  Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
 -pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
