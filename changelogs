@@ -26,13 +26,13 @@ CORRECCIONES
 CAMBIOS
 
  Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si
--la nueva contraseña coincide con el reingreso de la misma *tooltip_2
+-la nueva contraseña coincide con el reingreso de la misma  *tooltip_2
 
  Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
 -pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
 -el mouse
 
- Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte  *tooltip_1
+ Se cambió el límite de 1000 a 500 carácteres para el mensaje al soporte   *tooltip_1
 
  Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
 -(particularmente en el tema oscuro)
