@@ -3,7 +3,7 @@ VERSIÓN 3.0-ALPHA/34LOPXF0C | 26/4/2024
 CORRECCIONES
 
  Corregidos varios errores con la validación de datos en el sistema de 
--soporte
+-soporte *tooltip_1
 
  Corregido un problema el cual al apretar dos veces en una misma 
 -pestaña esta eliminaba los elementos, dejándola en blanco
