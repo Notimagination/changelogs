@@ -32,7 +32,7 @@ GENERAL
 
  Big code restructuring
 
-VERSIÓN 2.0-ALPHA/34LOPXF0C | 22/4/2024
+VERSION 1.1.5
 
 CORRECCIONES
 
@@ -68,43 +68,3 @@ AGREGADO
 GENERAL
 
  Pequeños cambios en la estructura y legilibilidad del código
-
-VERSIÓN 1.0-ALPHA/34LOPXF0C | 20/4/2024
-
-CORRECCIONES
-
- Se corrigió un error en el tooltip del botón de cambio de tema
-
-CAMBIOS
-
- Se cambió la estética de la ventana del changelog
- Se cambiaron algunas imágenes y colores
-
-AGREGADO
-
- Se agregó un ícono para la aplicación
-
-GENERAL
-
- Más código duplicado / innecesario eliminado
- Mejorada la lógica en ciertas partes del programa
-
-VERSIÓN 0.0-ALPHA/34LOPXF0C | 18/4/2024
-
-CORRECCIONES
-
- Corregido un error en el botón "Cancelar" (Actualización)
- Corregido un error al querer ver el changelog sin conexión a internet
-
-CAMBIOS
-
- Se hicieron algunos cambios estéticos en la UI
-
-AGREGADO
-
- Se agregó una campana para notificar una actualización
-
-GENERAL
-
- Se eliminaron líneas de código repetidas / innecesarias
- Se cambió la estructura del código para hacerlo más eficaz
