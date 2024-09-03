@@ -1,75 +1,36 @@
-VERSIÓN 3.0-ALPHA/34LOPXF0C | 26/4/2024
+VERSION 1.1.6
 
 CORRECCIONES
 
- Corregidos varios errores con la validación de datos en el sistema de 
--soporte
+ Fixed a problem in the completion check of the
+-"Easter Egg" achievement
 
- Corregido un problema el cual al apretar dos veces en una misma 
--pestaña esta eliminaba los elementos, dejándola en blanco
+ Fixed problems with sliding in some windows
+-with the scroll bar
 
- Corregido un problema en la ventana principal con modo oscuro
--activado
+ Fixed an issue that allowed some keys such as
+-Enter and Space to be used in windows
 
- Corregido un grave error en los botones del menú principal los cuales
--no mostraban sus respectivos contenidos
-
- Corregidos algunos problemas menores relacionados a la conexión 
--a internet
-
- Se corrigió un error en los campos de ingreso de datos en general
--en el cual al seleccionar y borrar todo (CTRL + A) los mensajes de
--validación no se eliminaban
-
- Otros pequeños problemas corregidos
+ Other minor issues fixed
 
 CAMBIOS
 
- Cuando se quiere cambiar la contraseña, ahora dirá en tiempo real si
--la nueva contraseña coincide con el reingreso de la misma
+ Some aesthetic changes
 
- Se ajustó el tiempo en el que se muestra un tooltip, ahora con apenas 
--pasar el mouse por arriba, enseguida se muestra; ni desaparecerá si se deja 
--el mouse
-
- Se cambió el límite de 1000 a 500 caracteres para el mensaje al soporte
-
- Se cambiaron algunas fuentes en el texto para hacerlas mas visibles
--(particularmente en el tema oscuro)
-
- Se cambiaron los punteros del mouse para distintos contextos
--(como el clic)
-
- Ahora los cambios que se hagan en la aplicación (cambio de tema, etc)
--se guardará para la próxima vez que se ingrese
-
- Pequeños cambios estéticos
+ Increased rewards for completed
+-achievements
 
 AGREGADO
 
- Se agregó un pequeño ícono de información en el changelog
--dependiendo el cambio que sea
+ Added a new achievement: "Easter Egg"
 
- Se agregó un teclado virtual para ingresar datos, así se podrían evitar
--posibles keyloggers *tooltip_2
+ Added current volume level for Music and Sound Effects
 
- Se agregaron efectos de sonido como clic, error, notificación, entre otros
-
- Se agregó una una notificación cuando no hay conexion a internet
--avisando así que ciertas caractertisticas no estarán disponibles
-
- Se agreagron notificaciones de Windows, las cuales informarán
--por ejemplo una advertencia al ingresar una contraseña errónea *tooltip_1
-
- Agregado la posibilidad de enviar archivos .txt junto al mensaje para el
--soporte
+ Changelog added. Yes, this same one you are warching
 
 GENERAL
 
- Finalmente se terminó de estructurar todo el codigo si bien esto no 
--tiene impacto en el rendimiento, sirve para un mejor entorno de desarrollo
-
- Grandes optimizaciones
+ Big code restructuring
 
 VERSIÓN 2.0-ALPHA/34LOPXF0C | 22/4/2024
 
