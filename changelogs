@@ -28,6 +28,8 @@ AGREGADO
 
  Changelog added. Yes, this same one you are warching
 
+ Added some new Sound Effects
+
 GENERAL
 
  Big code restructuring
@@ -36,35 +38,19 @@ VERSION 1.1.5
 
 CORRECCIONES
 
- Se corrigió un error de algunos textos que cuando cambiaba de tamaño
--la pantalla los textos se movían para cualquier lado
-
- Se arreglaron superposiciones entre botones
-
- Se arregló el problema que permitía cliquear muchas veces una misma
--pestaña. Esto ocasionaba que se superpusieran elementos
-
- Corregido un problema en el botón de "Cerrar ventana" en la ventana 
--de changelog, el cual no cumplía su propósito. Esto sucedía solo si no
--se estaba conectado a internet
-
- Se corrigió el problema de que la campanita se mostraba aún así no
--hubiera actualización. Solo sucedía sin conexión a internet
+ No chages here
 
 CAMBIOS
 
- Se reemplazó el botón "Novedades" por el botón de "Servicio de ayuda"
-
- Ahora cuando se hace clic en un botón del menu de las distintas opciones
--se mostrará el "efecto" como si estuvieran presionadas
-
- Ya no se podrán abrir más de una ventana a la vez, haciendo la ventana
--principal inutilizable mientras haya otra ventana abierta
+ Big aesthetic changes
 
 AGREGADO
 
--No hubo cambios
+ Added colors for the background
+
+ Created a custom tooltip, instead of
+-using external libraries
 
 GENERAL
 
- Pequeños cambios en la estructura y legilibilidad del código
+ No changes here
