@@ -2,15 +2,14 @@ VERSION 1.1.6
 
 FIXES
 
- Fixed a problem in the completion
--check of the "Easter Egg" achievement
+ Fixed a problem in the completion check of the
+-"Easter Egg" achievement
 
- Fixed problems with sliding in some
--windows with the scroll bar
+ Fixed problems with sliding in some windows with
+-the scroll bar
 
- Fixed an issue that allowed some keys
--such as Enter and Space to be used
--in windows
+ Fixed an issue that allowed some keyssuch as Enter
+-and Space to be used in windows
 
  Other minor issues fixed
 
@@ -18,19 +17,15 @@ CHANGES
 
  Some aesthetic changes
 
- Increased rewards for completed
--achievements
+ Increased rewards for completed achievements
 
 ADDED
 
- Added a new achievement:
--"Easter Egg"
+ Added a new achievement: "Easter Egg"
 
- Added current volume level for
--Music and Sound Effects
+ Added current volume level for Music and Sound Effects
 
- Changelog added. Yes, this same
--one you are warching *tooltip_1
+ Changelog added. Yes, this same one you are warching *tooltip_1
 
  Added some new Sound Effects
 
@@ -53,8 +48,7 @@ ADDED
 
  Added colors for the background
 
- Created a custom tooltip, instead of
--using external libraries
+ Created a custom tooltip, instead of using external libraries
 
 MISCELLANEOUS
 
