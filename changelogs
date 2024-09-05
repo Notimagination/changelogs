@@ -1,28 +1,29 @@
 VERSION 1.1.6
 
-CORRECCIONES
+FIXES
 
- Fixed a problem in the completion check of the
--"Easter Egg" achievement
+ Fixed a problem in the completion
+-check of the "Easter Egg" achievement
 
- Fixed problems with sliding in some windows
--with the scroll bar
+ Fixed problems with sliding in some
+-windows with the scroll bar
 
- Fixed an issue that allowed some keys such as
--Enter and Space to be used in windows
+ Fixed an issue that allowed some keys
+-such as Enter and Space to be used in windows
 
  Other minor issues fixed
 
-CAMBIOS
+CHANGES
 
  Some aesthetic changes
 
  Increased rewards for completed
 -achievements
 
-AGREGADO
+ADDED
 
- Added a new achievement: "Easter Egg"
+ Added a new achievement:
+-"Easter Egg"
 
  Added current volume level for
 -Music and Sound Effects
@@ -32,28 +33,28 @@ AGREGADO
 
  Added some new Sound Effects
 
-GENERAL
+MISCELLANEOUS
 
  Big code restructuring
 
 VERSION 1.1.5
 
-CORRECCIONES
+FIXES
 
  No chages here
 
-CAMBIOS
+CHANGES
 
  Big aesthetic changes
  Letter font changed
 
-AGREGADO
+ADDED
 
  Added colors for the background
 
  Created a custom tooltip, instead of
 -using external libraries
 
-GENERAL
+MISCELLANEOUS
 
  No changes here
