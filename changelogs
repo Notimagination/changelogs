@@ -8,7 +8,7 @@ FIXES
  Fixed problems with sliding in some windows with
 -the scroll bar
 
- Fixed an issue that allowed some keyssuch as Enter
+ Fixed an issue that allowed some keys such as Enter
 -and Space to be used in windows
 
  Other minor issues fixed
