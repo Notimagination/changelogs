@@ -19,6 +19,13 @@ CHANGES
 
  Increased rewards for completed achievements
 
+ Changed the logic for displaying notifications for
+-completed achievements
+
+ Data saving structure changed
+
+ Added premium backgrounds
+
 ADDED
 
  Added a new achievement: "Easter Egg"
