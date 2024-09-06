@@ -33,7 +33,7 @@ ADDED
  Added current volume level for Music and Sound Effects
 
  Changelog added. Yes, this same one you are
--seeing *tooltip_2
+-seeing *tooltip_1
 
  Added some new Sound Effects
 
@@ -41,7 +41,7 @@ MISCELLANEOUS
 
  Big code restructuring
 
- Big code optimization *tooltip_1
+ Big code optimization
 
 VERSION 1.1.5
 
