@@ -47,8 +47,8 @@ MISCELLANEOUS
 
  Removed many lines of unnecessary or unused code
 
- Almost all the code was restructured, for a better development
--environment
+ Almost all the code was restructured, for a better
+-development environment
 
 VERSION 1.1.5 *normal_update
 
