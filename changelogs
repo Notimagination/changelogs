@@ -2,8 +2,6 @@ VERSION 1.1.6 *big_update
 
 FIXES
 
- HOLA MI AMORRRRRRRRRRRRRRRRRRRRRRRRR
-
  Fixed a problem in the completion check of the
 -"Easter Egg" achievement
 
@@ -45,8 +43,8 @@ ADDED
 
  Added premium backgrounds
 
- Exception trackers were added to almost every program
--to help find the cause of possible errors
+ Added exception trackers throughout almost the entire
+-program to help find the cause of possible errors
 
 MISCELLANEOUS
 
