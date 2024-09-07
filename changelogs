@@ -11,6 +11,9 @@ FIXES
  Fixed an issue that allowed some keys such as Enter
 -and Space to be used in windows
 
+ Fixed a bug where custom letter font was not displaying
+-correctly
+
  Other minor issues fixed
 
 CHANGES
@@ -39,9 +42,13 @@ ADDED
 
 MISCELLANEOUS
 
- Big code restructuring
+ The use of resources was optimized to avoid excessive use of ram
+-and processor
 
- Big code optimization
+ Removed many lines of unnecessary or unused code
+
+ Almost all the code was restructured, for a better development
+-environment
 
 VERSION 1.1.5 *normal_update
 
