@@ -42,8 +42,8 @@ ADDED
 
 MISCELLANEOUS
 
- The use of resources was optimized to avoid excessive use of ram
--and processor
+ The use of resources was optimized to avoid excessive use
+-of ram and processor
 
  Removed many lines of unnecessary or unused code
 
