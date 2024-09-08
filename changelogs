@@ -46,6 +46,8 @@ ADDED
  Added exception trackers throughout almost the entire
 -game to help find the cause of possible errors
 
+ Added gift codes *tooltip_2
+
 MISCELLANEOUS
 
  The use of resources was optimized to avoid
