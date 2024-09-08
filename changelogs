@@ -14,6 +14,8 @@ FIXES
  Fixed a bug where custom letter font was not
 -displaying correctly
 
+ Fixed memory leak
+
  Other minor issues fixed
 
 CHANGES
