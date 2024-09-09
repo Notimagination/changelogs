@@ -8,8 +8,8 @@ FIXES
  Fixed problems with sliding in some windows with
 -the scroll bar
 
- Fixed an issue that allowed some keys such as Enter
--and Space to be used in windows
+ Fixed an issue that allowed some keys such as
+-Enter and Space to be used in windows
 
  Fixed a bug where custom letter font was not
 -displaying correctly
@@ -48,15 +48,17 @@ ADDED
 
  Added premium backgrounds
 
- Added exception trackers throughout almost the entire
--game to help find the cause of possible errors
+ Added exception trackers throughout almost the
+-entire game to help find the cause of possible
+-errors
 
 MISCELLANEOUS
 
  The use of resources was optimized to avoid
 -excessive use of ram and processor
 
- Removed many lines of unnecessary or unused code
+ Removed many lines of unnecessary or unused
+-code
 
  Almost all the code was restructured, for a better
 -development environment
