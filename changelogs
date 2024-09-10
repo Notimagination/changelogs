@@ -52,6 +52,8 @@ ADDED
  Added an own contextual menu, for copy, paste and
 -delete text from text box
 
+ Added "Regular News" button
+
 MISCELLANEOUS
 
  The use of resources was optimized to avoid
@@ -80,6 +82,8 @@ ADDED
 
  Created a custom tooltip, instead of using external
 -libraries
+
+ Added a "Reset stats" button
 
 MISCELLANEOUS
 
