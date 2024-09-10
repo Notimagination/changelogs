@@ -2,9 +2,6 @@ VERSION 1.1.6 *major_update
 
 FIXES
 
- Fixed a problem in the completion check of the
--"Easter Egg" achievement
-
  Fixed problems with sliding in some windows with
 -the scroll bar
 
