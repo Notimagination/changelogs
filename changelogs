@@ -12,7 +12,7 @@ FIXES
 -displaying correctly
 
  Fixed a conflict issue with the keyboard and setting
--windows
+-window
 
  Fixed memory leak
 
