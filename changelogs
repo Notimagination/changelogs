@@ -48,9 +48,9 @@ ADDED
 
  Added premium backgrounds
 
- Added exception trackers throughout almost the
--entire game to help find the cause of possible
--errors
+ Added exception trackers throughout almost
+-the entire game to help find the cause of
+-possible errors
 
  Added an own contextual menu, for copy, paste and
 -delete text from text box
@@ -65,8 +65,8 @@ MISCELLANEOUS
  Removed many lines of unnecessary or unused
 -code
 
- Almost all the code was restructured, for a better
--development environment
+ Almost all the code was restructured, for a
+-better development environment
 
 VERSION 1.1.5 *normal_update
 
@@ -76,15 +76,15 @@ FIXES
 
 CHANGES
 
- Big aesthetic changes. Basically the entire UI was
--redone
+ Big aesthetic changes. Basically the entire UI
+-was redone
 
 ADDED
 
  Added colors for the background
 
- Created a custom tooltip, instead of using external
--libraries
+ Created a custom tooltip, instead of using
+-external libraries
 
  Added a "Reset stats" button
 
