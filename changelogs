@@ -2,17 +2,17 @@ VERSION 1.1.6 *major_update
 
 FIXES
 
- Fixed problems with sliding in some windows with
--the scroll bar
+ Fixed problems with sliding in some windows
+-with the scroll bar
 
- Fixed an issue that allowed some keys such as
--Enter and Space to be used in windows
+ Fixed an issue that allowed some keys such
+-as Enter and Space to be used in windows
 
- Fixed a bug where custom letter font was not
--displaying correctly
+ Fixed a bug where custom letter font was
+-not displaying correctly
 
- Fixed a conflict issue with the keyboard and setting
--window
+ Fixed a conflict issue with the keyboard
+-and setting window
 
  Fixed memory leak
 
@@ -24,8 +24,8 @@ CHANGES
 
  Increased rewards for completed achievements
 
- Changed the logic for displaying notifications for
--completed achievements
+ Changed the logic for displaying notifications
+-for completed achievements
 
  Data saving structure changed
 
