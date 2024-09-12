@@ -11,7 +11,8 @@ FIXES
  Fixed a bug where custom letter font was not
 -displaying correctly
 
- Fixed a conflict issue with the keyboard and setting windows
+ Fixed a conflict issue with the keyboard and setting
+-windows
 
  Fixed memory leak
 
