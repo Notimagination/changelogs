@@ -39,13 +39,13 @@ ADDED
  Added a new achievement: "Easter Egg"
 
  Added a button to enter gift codes, obtainable
--in certain events *tooltip_2
+-in certain events *tooltip_3
 
  Added current volume level (numbers) for Music
 -and Sound Effects
 
  Changelog added. Yes, this same one you are
--seeing *tooltip_1
+-seeing *tooltip_2
 
  Added some new Sound Effects
 
@@ -87,7 +87,7 @@ ADDED
  Added colors for the background
 
  Created a custom tooltip, instead of using
--external libraries
+-external libraries *tooltip_1
 
  Added a "Reset stats" button
 
