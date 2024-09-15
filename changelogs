@@ -22,7 +22,7 @@ CHANGES
 
  Some aesthetic changes
 
- Increased rewards for completed achievements
+ Increased rewards for achievements
 
  Changed the logic for displaying notifications
 -for completed achievements
@@ -38,14 +38,14 @@ ADDED
 
  Added a new achievement: "Easter Egg"
 
- Added a button to enter gift codes, obtainable
--in certain events *tooltip_3
+ Added gifts codes, obtainable in certain
+-events *tooltip_3
 
- Added current volume level (numbers) for Music
--and Sound Effects
+ Added current volume level (numbers)
+-for music and sound effects
 
- Changelog added. Yes, this same one you are
--seeing *tooltip_2
+ Added a changelog window (this one) to report game
+-updates *tooltip_2
 
  Added some new Sound Effects
 
@@ -64,11 +64,9 @@ MISCELLANEOUS
  The use of resources was optimized to avoid
 -excessive use of ram and processor
 
- Removed many lines of unnecessary or unused
--code
+ Removed many lines of unnecessary code
 
- Almost all the code was restructured, for a
--better development environment
+ Almost all the code was restructured
 
 VERSION 1.1.5 *normal_update
 
@@ -78,8 +76,7 @@ FIXES
 
 CHANGES
 
- Big aesthetic changes. Basically the entire UI
--was redone
+ The entire UI was redone
 
 ADDED
 
