@@ -3,9 +3,7 @@ VERSION 1.1.6 *major_update
 FIXES
 
  Fixed big problem with sound controllers
--(music and sound effects). It would be very
--long to explain, but this error was serious
--and annoying
+-(music and sound effects)
 
  Fixed problems with sliding in some windows
 -with the scroll bar
@@ -59,8 +57,7 @@ ADDED
  Added 1 premium background
 
  Added exception trackers throughout almost
--the entire game to help find the cause of
--possible errors
+-the entire game
 
  Added an own contextual menu
 
