@@ -5,6 +5,9 @@ FIXES
  Fixed big problem with sound controllers
 -(music and sound effects)
 
+ Fixed a bug with moving (Exotics ones) skins
+-not working as expected
+
  Fixed problems with sliding in some windows
 -with the scroll bar
 
