@@ -46,8 +46,8 @@ ADDED
 
  Added a new achievement: "Easter Egg"
 
- Added logs system. This will make it easier to find
--errors, and will help the user to report them *tooltip_4
+ Added logs system. This will make it easier
+-to find errors, and will help to report them *tooltip_4
 
  Added gifts codes, obtainable in certain
 -events *tooltip_3
