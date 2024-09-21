@@ -35,6 +35,9 @@ CHANGES
 
  Data saving structure changed
 
+ Some changes were made to protect files from
+-possible modifications
+
  Changed the exe icon
 
 ADDED
