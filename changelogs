@@ -2,23 +2,25 @@ VERSION 1.1.7 *normal_update
 
 FIXES
 
-Fixed a bug which did not display Discord Rich
--Presence correctly
+ Fixed a bug which did not display Discord
+-Rich Presence correctly
 
 CHANGES
 
-The skins windows was redone
+ The skins windows was redone
 
-Internal changes were made to improve resource
--management and logic
+ Internal changes were made to improve
+-resource management and logic
 
 ADDED
 
-Added two new skins: Creeper Bear & Ninja Bear
+ Added two new skins:
+-Creeper Bear
+-Ninja Bear
 
 MISCELLANEOUS
 
-Custom font was disabled due to a bug, it will
+ Custom font was disabled due to a bug, it will
 -be enabled again when the bug is fixed
 
 VERSION 1.1.6 *major_update
@@ -58,8 +60,8 @@ CHANGES
 
  Data saving structure changed
 
- Some changes were made to protect files from
--possible modifications
+ Some changes were made to protect files
+-from possible modifications
 
  Changed the exe icon
 
