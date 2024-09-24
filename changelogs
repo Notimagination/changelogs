@@ -2,7 +2,8 @@ VERSION 1.1.7 *normal_update
 
 FIXES
 
-/No changes here
+Fixed a bug which did not display Discord Rich
+-Presence correctly
 
 CHANGES
 
