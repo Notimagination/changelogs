@@ -3,7 +3,7 @@ VERSION 1.1.7 *normal_update
 FIXES
 
  Fixed a bug which did not display Discord
--Rich Presence correctly
+-Rich Presence correctly at game start
 
  Fixed a bug where the Setting window cannot
 -close with ESC after click a button in the
