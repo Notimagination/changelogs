@@ -5,6 +5,10 @@ FIXES
  Fixed a bug which did not display Discord
 -Rich Presence correctly
 
+ Fixed a bug where the Setting window cannot
+-close with ESC after click a button in the
+-left panel
+
 CHANGES
 
  The skins windows was redone
