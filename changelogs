@@ -12,6 +12,8 @@ FIXES
  Fixed visual bug in the changelogs window
 -when the connection is restored
 
+ Fixed bug in context menu
+
 CHANGES
 
  The skins windows was redone
