@@ -105,8 +105,8 @@ ADDED
 
  Added some new Sound Effects
 
- Added exception trackers throughout almost
--the entire game
+ Added exception trackers throughout
+-almost the entire game
 
  Added an own contextual menu
 
@@ -114,8 +114,8 @@ ADDED
 
 MISCELLANEOUS
 
- The use of resources was optimized to avoid
--excessive use of ram and processor
+ The use of resources was optimized to
+-avoid excessive use of ram and processor
 
  Removed many lines of unnecessary code
 
