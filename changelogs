@@ -40,6 +40,9 @@ MISCELLANEOUS
  General improvements have been made
 -to the structure of files and codes
 
+ Bear movement on click was disabled
+-momentarily due to changes I'm making
+
 VERSION 1.1.6 *major_update
 
 FIXES
