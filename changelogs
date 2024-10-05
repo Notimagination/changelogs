@@ -5,9 +5,9 @@ FIXES
  Fixed a bug which did not display Discord
 -Rich Presence correctly at game start
 
- Fixed a bug where the Setting window cannot
--close with ESC after click a button in the
--left panel
+ Fixed a bug where the Setting window
+-cannot close with ESC after click a
+-button in the left panel
 
  Fixed visual bug in the changelogs window
 -when the connection is restored
