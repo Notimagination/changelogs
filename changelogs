@@ -81,7 +81,8 @@ CHANGES
 
  Increased rewards for achievements
 
- Changed the logic for displaying notifications
+ Changed logic for displaying achievements
+-notifications
 -for completed achievements
 
  Data saving structure changed
